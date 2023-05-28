@@ -312,7 +312,7 @@ text-align: center;
   line-height: 2rem;
 }
 
-@media (max-width:412px){
+@media (max-width:430px){
   body{
     font-size: 12px !important;
   }
