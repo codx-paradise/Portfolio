@@ -368,6 +368,7 @@ text-align: center;
 }
 .project-card .card-text {
   height: auto;
+  margin-bottom: 2rem;
 }
 .project-card .card-title {
   font-size: medium;
@@ -391,5 +392,8 @@ text-align: center;
 .skills .container .row {
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem; 
+}
+.btn-primary {
+  margin-left: 10%;
 }
 }
