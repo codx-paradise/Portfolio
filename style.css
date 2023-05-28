@@ -315,7 +315,7 @@ text-align: center;
 @media (max-width:430px){
   body{
     font-size: 12px !important;
-    overflow: hidden;
+    overflow-x: hidden;
   }
   nav{
     display: none;
