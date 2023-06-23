@@ -312,7 +312,7 @@ text-align: center;
   line-height: 2rem;
 }
 
-@media (max-width:430px){
+@media (max-width:576px){
   body{
     font-size: 12px !important;
     overflow-x: hidden;
@@ -397,3 +397,4 @@ text-align: center;
   margin-left: 10%;
 }
 }
+
